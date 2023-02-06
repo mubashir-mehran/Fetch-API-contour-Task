@@ -1,0 +1,32 @@
+table {
+  width: 80%;
+  margin: 2% auto;
+  border: 2px solid black;
+  border-radius: 10px;
+  border-collapse: collapse;
+  text-align: center;
+  text-transform: capitalize;
+  position: relative;
+}
+table tr th,
+table tr td {
+  padding: px;
+  border: 2px solid rgb(241, 240, 240);;
+  background-color: rgb(245, 219, 186);
+}
+h1 {
+  text-align: center;
+  justify-content: center;
+  margin: 20px;
+}
+body {
+  background-color: rgb(206, 205, 205);
+}
+td{
+    text-align: left;
+    padding: 5px;
+    
+}
+th{
+    padding: 10px;
+}
